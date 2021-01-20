@@ -1,8 +1,8 @@
-print("one正在开发新功能")
+pdddddrint("one正在开发新功能")
 
 
 
-print("one  repair bug")
+parint("one  repair bug")
 
-repair
+arepairsdfssdfsff
 
